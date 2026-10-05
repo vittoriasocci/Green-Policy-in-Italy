@@ -282,9 +282,9 @@ def worker_rep(task):
 
 
 def main():
-    out1 = f"{POLICY_NAME}01_g0_REGRESSIVE.txt"
-    out2 = f"{POLICY_NAME}012_g0_REGRESSIVE.txt"
-    out3 = f"{POLICY_NAME}013_g0_REGRESSIVE.txt"   # ====== NUOVO FILE 3 ======
+    out1 = f"{POLICY_NAME}01_g0_PROGRESSIVE.txt"
+    out2 = f"{POLICY_NAME}012_g0_PROGRESSIVE.txt"
+    out3 = f"{POLICY_NAME}013_g0_PROGRESSIVE.txt"   # ====== NUOVO FILE 3 ======
 
     header1 = "income\tPP\tpolicy\telection\talpha_mean\talpha_std\talpha_se\tpolicy_type\tstep\tgreen_seats_mean\tgreen_seats_std\tgreen_seats_se\tsigma\tgamma\tbeta\tgreen_policy\n"
     header2 = "CCAA\tPP\tpolicy\telection\talpha_mean\talpha_std\talpha_se\tpolicy_type\tstep\tgreen_seats_mean\tgreen_seats_std\tgreen_seats_se\tsigma\tgamma\tbeta\n"
