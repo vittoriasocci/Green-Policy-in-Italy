@@ -80,6 +80,7 @@ The script requires:
 functions.py
 last_created_network_21.txt
 ```
+The social network used in this analysis corresponds to neutral gender mixing, i.e., lambda = 0.
 
 No network generation is performed by this script.
 
