@@ -1,0 +1,4 @@
+gender	PP	policy	election	alpha_mean	alpha_std	alpha_se	policy_type	step	green_seats_mean	green_seats_std	green_seats_se	sigma	gamma	beta
+MALE	10	5	5	0.57	0.1725	0.0244	X	250	506.64	139.5269	19.7321	0.05	0.99	1
+FEMALE	10	5	5	0.578	0.1641	0.0232	X	250	506.64	139.5269	19.7321	0.05	0.99	1
+ALL	10	5	5	0.5741	0.1682	0.0238	X	250	506.64	139.5269	19.7321	0.05	0.99	1
